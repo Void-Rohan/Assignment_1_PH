@@ -93,6 +93,19 @@
   margin: 30px 105px;
   padding: 20px 10px;
 }
+.Yunus > p{
+  font-size: 16px;
+  font-family: Fira Sans;
+  font-weight: 400;
+}
+.Yunus > h5{
+  color: rgba(13.81, 13.81, 13.81, 0.80);
+  font-size: 20px;
+  font-family: Fira Sans;
+  font-weight: 600;
+  line-height: 24px;
+  word-wrap: break-word;
+}
 .recent > h2{
   color: #0E0E0E;
   font-size: 40px;
