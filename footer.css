@@ -1,0 +1,136 @@
+.donatenow > h2{
+  color: #0E0E0E;
+  font-size: 40px;
+  font-family: Fira Sans;
+  font-weight: 700;
+  word-wrap: break-word
+}
+.donatenow > p{
+  color: rgba(13.81, 13.81, 13.81, 0.70);
+  font-size: 16px;
+  font-family: Fira Sans;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word
+}
+.donatenow{
+  text-align: center;
+}
+
+.tk1{
+  border: 1px solid gray;
+  background-color: #F1F2F3;
+  border-radius: 15px;
+  padding: 10px 40px;
+  color: rgba(13.81, 13.81, 13.81, 0.80);
+  font-size: 35px;
+  font-family: Fira Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.taka{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px 160px;
+}
+.input{
+  margin: 30px 0px;
+  color: rgba(13.81, 13.81, 13.81, 0.30);
+  font-size: 20px;
+  font-family: Fira Sans;
+  font-weight: 400;
+  word-wrap: break-word
+}
+
+.ipfield > input{
+  height: 50px;
+  width: 1000px;
+  position: relative;
+  left: 16%;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.input > button{
+  border: none;
+  border-radius: 8px;
+  background-color: #006A50;
+  color: white;
+  font-size: 14px;
+  font-family: Fira Sans;
+  font-weight: 600;
+  word-wrap: break-word;
+  padding: 10px 20px;
+  position: relative;
+  left: 46.5%;
+}
+.wholesub{
+  background-color: #c6e4d6;
+  padding: 30px 0px;
+  border-radius: 16px;
+  margin: 0px 180px;
+}
+.subs{
+  text-align: center;
+}
+.subs > h2{
+  color: #0E0E0E;
+  font-size: 40px;
+  font-family: Fira Sans;
+  font-weight: 700;
+  word-wrap: break-word
+}
+.subs > p{
+  color: rgba(13.81, 13.81, 13.81, 0.70);
+  font-size: 16px;
+  font-family: Fira Sans;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word
+}
+.inp{
+  text-align: center;
+  padding: 15px;
+  position: relative;
+  right: 60px;
+}
+
+.inp > input{
+  width: 550px;
+  height: 22px;
+  border: none;
+  padding: 15px 0px 15px 40px;
+  border-radius: 8px 0 0 8px;
+}
+.inp > input::placeholder{
+  opacity: 1;
+  color: rgba(13.81, 13.81, 13.81, 0.30);
+  font-size: 16px;
+  font-family: Fira Sans;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.inp > button{
+  position:absolute;
+  border: none;
+  padding: 15px 30px;
+  background-color: #006A50;
+  color: white;
+  border-radius: 0 8px 8px 0 ;
+  font-size: 18px;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+footer > h3{
+  text-align: center;
+  color: #0E0E0E;
+  font-size: 32px;
+  font-family: Fira Sans;
+  font-weight: 680;
+  word-wrap: break-word
+}
+.ftimg{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px 650px;
+}
