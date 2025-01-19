@@ -28,18 +28,26 @@
   font-weight: 700;
   word-wrap: break-word;
 }
+.tk2{
+  border: 1px solid gray;
+  background-color: #C6E4D6;
+  border-radius: 15px;
+  padding: 10px 40px;
+  color: rgba(13.81, 13.81, 13.81, 0.80);
+  font-size: 35px;
+  font-family: Fira Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
 .taka{
   display: flex;
   justify-content: space-evenly;
   margin: 0px 160px;
 }
-.input{
+.input {
   margin: 30px 0px;
   color: rgba(13.81, 13.81, 13.81, 0.30);
-  font-size: 20px;
-  font-family: Fira Sans;
-  font-weight: 400;
-  word-wrap: break-word
+  word-wrap: break-word;
 }
 
 .ipfield > input{
@@ -49,6 +57,8 @@
   left: 16%;
   margin-bottom: 15px;
   text-align: center;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .input > button{
