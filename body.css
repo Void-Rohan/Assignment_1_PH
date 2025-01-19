@@ -2,6 +2,11 @@
   margin-left: 100px;
   margin-top: 80px;
   margin-bottom: 30px;
+  color: #0E0E0E;
+  font-size: 40px;
+  font-family: Fira Sans;
+  font-weight: 700;
+  word-wrap: break-word;
 }
 #vofpara{
   margin-left: 100px;
@@ -11,13 +16,6 @@
   font-weight: 400;
   line-height: 24px;
   word-wrap: break-word
-}
-.vision > h1{
-  color: #0E0E0E;
-  font-size: 40px;
-  font-family: Fira Sans;
-  font-weight: 700;
-  word-wrap: break-word;
 }
 .digiheading{
   font-size: 20px;
