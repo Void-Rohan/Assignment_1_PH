@@ -55,6 +55,9 @@ nav > h1{
   background: #006A50;
   color: white; 
   border: none;
+  font-size: 18px;
+  font-family: Fira Sans;
+  font-weight: 600;
   border-radius: 8px;
   justify-content: center;
   align-items: center; 
