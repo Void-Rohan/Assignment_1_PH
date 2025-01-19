@@ -86,7 +86,7 @@
 .Yunus{
   border: 1px solid gray;
   border-radius: 12px;
-  background-image: url(/assets/quote-bg.png);
+  background-image: url(assets/quote-bg.png);
   background-repeat: no-repeat;
   background-position: 1% 5%;
   background-color: #F1F2F3;
