@@ -52,7 +52,8 @@ nav > h1{
   justify-content: center;
 }
 #explore{ 
-  background: #006A50; 
+  background: #006A50;
+  color: white; 
   border: none;
   border-radius: 8px;
   justify-content: center;
