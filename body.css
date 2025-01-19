@@ -13,7 +13,11 @@
   word-wrap: break-word
 }
 .vision > h1{
-  font-size: 35px;
+  color: #0E0E0E;
+  font-size: 40px;
+  font-family: Fira Sans;
+  font-weight: 700;
+  word-wrap: break-word;
 }
 .digiheading{
   font-size: 20px;
